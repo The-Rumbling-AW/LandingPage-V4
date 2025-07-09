@@ -13,7 +13,7 @@
           <input type="email" :placeholder="$t('footercorreo')" required />
           <button type="submit">{{$t("footerboton")}}</button>
         </form>
-        <!-- REDES SOCIALES -->
+   
         <div class="social-icons">
           <a href="https://www.tiktok.com" target="_blank">
             <img src="https://img.icons8.com/ios-filled/50/ffffff/tiktok--v1.png" alt="TikTok" />
