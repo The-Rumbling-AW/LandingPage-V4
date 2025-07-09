@@ -1,0 +1,58 @@
+{
+  "inicio": "Inicio",
+  "fans": "Para Fans",
+  "artistas": "Para artistas",
+  "ingresar": "Explorar",
+  "conoce": "Conoce los conciertos programados cerca de ti",
+  "Testimonios": "Testimonios de Fans",
+  "testuno": "“Soy Stay desde 2018 y siempre me frustraba perderme eventos de K-pop porque me enteraba tarde. Gracias a StayMap supe del fanmeeting local de Stray Kids ¡a tiempo y con entradas disponibles! Esta app es mi salvación.”",
+  "testunoby": "—Camila, 21 años, Lima. Fan de Stray Kids",
+  "testdos": "“Cuando Harry vino a Perú, me enteré muy tarde. Si hubiera tenido StayMap, no me lo perdía. Ahora no dejo que ningún concierto me pase de largo. Amo que la app me avise antes que nadie.”",
+  "testdosby": "—Andrea, 19 años, Arequipa. Fan de Harry Styles",
+  "testtres": "“Sigo a Louis desde One Direction y siempre estoy atenta a cualquier evento que lo incluya. StayMap me ayudó a descubrir un tributo que hicieron en mi ciudad y pude ir con mis amigas. ¡Lo máximo!”",
+  "testtresby": "—Fernanda, 22 años, Trujillo. Fan de Louis Tomlinson",
+  "footer": "Suscríbete a nuestro newsletter",
+  "footerdos": "Recibe noticias de conciertos, preventas y más, directo a tu correo.",
+  "footerboton": "Suscribirme",
+  "footercorreo": "Tu correo electrónico",
+  "copyright": "© 2025 StayMap. Todos los derechos reservados.",
+
+  "titulo_beneficios_fan_parte1": "Descubre los beneficios",
+  "titulo_beneficios_fan_resaltado": "FAN",
+  "titulo_beneficios_fan_parte2": "de StayMap",
+
+  "beneficiofan1_parte1": "Recibe notificaciones de tus",
+  "beneficiofan1_resaltado": "artistas favoritos",
+  "beneficiofan1_parte2": "dónde sea, cuándo sea",
+
+  "beneficiofan2_parte1": "¿Necesitas compartir tu opinión?",
+  "beneficiofan2_parte2": "¡Califica los conciertos asistidos!",
+
+  "beneficiofan3_parte1": "¿No tienes con quién ir a un concierto?",
+  "beneficiofan3_resaltado": "Comparte tu asistencia",
+  "beneficiofan3_parte2": "y encuentra fans!",
+
+  "beneficiofan4_parte1": "¿Con ganas de ir a un concierto?",
+  "beneficiofan4_parte2": "StayMap encuentra conciertos cerca tuyo!",
+
+  "titulo_beneficios_artista_parte1": "Descubre los beneficios de",
+  "titulo_beneficios_artista_resaltado": "ARTISTA",
+  "titulo_beneficios_artista_parte2": "de StayMap",
+
+  "beneficioartista1_parte1": "Envía notificaciones a tus",
+  "beneficioartista1_resaltado": "seguidores",
+  "beneficioartista1_parte2": "en cualquier momento y lugar",
+
+  "beneficioartista2_parte1": "¿Quieres ver opiniones?",
+  "beneficioartista2_parte2": "¡Recibe comentarios de tus seguidores!",
+
+  "beneficioartista3_parte1": "¿Quieres construir una comunidad de fans?",
+  "beneficioartista3_resaltado": "Comparte tus eventos",
+  "beneficioartista3_parte2": "y encuentra fans.",
+
+  "beneficioartista4_parte1": "¿Nuevo evento cerca?",
+  "beneficioartista4_parte2": "¡StayMap encuentra asistentes cercanos!",
+
+  "abouttheteam": "Video About-The-Team",
+  "abouttheproduct": "Video About-The-Product"
+}
