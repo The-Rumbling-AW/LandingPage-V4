@@ -5,7 +5,7 @@ import FansSectionComponent from "../../public/fans-section.component.vue";
 import ArtistSectionComponent from "../../public/artist-section.component.vue";
 import PageNotFoundComponent from "../../public/page-not-found.component.vue";
 
-
+//routes 
 const routes=[
     {  path: '/',                      name: 'default',    redirect: {name: 'home'}},
     { path: '/home', name: 'home', component: ContentSectionComponent, meta: {title: 'Home'}},
