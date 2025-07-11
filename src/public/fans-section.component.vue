@@ -7,12 +7,15 @@ export default {
 <template>
 
   <main>
+     <!-- Título principal dividido en partes traducidas -->
     <h2>
+      <!-- Traducción de la primera parte del título -->
       {{ $t('titulo_beneficios_fan_parte1') }}
       <span class="highlight">{{ $t('titulo_beneficios_fan_resaltado') }}</span>
       {{ $t('titulo_beneficios_fan_parte2') }}
     </h2>
-
+    
+ <!-- Contenedor principal de las tarjetas de beneficios -->
     <section class="benefits">
       <div class="card">
         <div class="icon"><i class="fas fa-bell"></i></div>
@@ -50,7 +53,7 @@ export default {
     </section>
   </main>
 </template>
-
+<!-- Estilos del componente (scoped = solo aplica a este componente) -->
 <style scoped>
 main {
   text-align: center;
