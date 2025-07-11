@@ -45,6 +45,7 @@ export default {
 
       <div class="card purple">
         <div class="icon"><i class="fas fa-map"></i></div>
+          <!-- Texto en dos líneas -->
         <p>
           {{ $t('beneficiofan4_parte1') }}<br/>
           {{ $t('beneficiofan4_parte2') }}
