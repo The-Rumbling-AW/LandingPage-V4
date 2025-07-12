@@ -20,7 +20,7 @@
 
     <language-switcher />
 
-    <a href="https://staymap-aw-appweb.onrender.com/" class="btn-appweb">
+    <a href="https://staymap-frontend.onrender.com/" class="btn-appweb">
 
       {{ $t("ingresar") }}
     </a>
