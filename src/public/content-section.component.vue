@@ -134,7 +134,6 @@ export default {
 }
 </script>
 
-</script>
 <style scoped>
 /* Contenedor de los videos embebidos */
 .video-card {
