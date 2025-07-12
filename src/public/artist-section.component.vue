@@ -11,7 +11,7 @@ export default {
          Usa la función de internacionalización ($t) para soportar múltiples idiomas. -->
     <h2>
       {{ $t('titulo_beneficios_artista_parte1') }}
-      <span class=\"highlight\">{{ $t('titulo_beneficios_artista_resaltado') }}</span>
+      <span class="highlight">{{ $t('titulo_beneficios_artista_resaltado') }}</span>
       {{ $t('titulo_beneficios_artista_parte2') }}
     </h2>
 
